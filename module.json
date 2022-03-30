@@ -7,11 +7,9 @@
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-  "authors": [
-    {
-      "name": "Hakim Assouane",
-    }
-  ],
+  "authors": [{
+    "name": "Hakim Assouane"
+  }],
   "dependencies": [
 
   ],
